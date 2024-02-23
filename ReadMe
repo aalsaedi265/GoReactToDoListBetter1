@@ -5,3 +5,19 @@
 
 # summary
 this is project to brush up on react and go and use typescript more often. I have been using python and java none stop that these need a brushing up on
+
+
+# go mod init github.com/aalsaedi265/GoReactToDoListBetter1
+
+# go get -u github.com/gofiber/fiber/v2
+
+yarn create vite client -- --template react-ts
+                or
+npx create-vite client --template react-ts
+
+both are fine
+
+
+yarn add @mantine/hooks @mantine/core swr @primer/octicons-react
+                or
+npm install @mantine/hooks @mantine/core swr @primer/octicons-react
